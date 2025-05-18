@@ -48,6 +48,6 @@ This project is part of my data science internship at **Credora**. It focuses on
 ## 🧪 How to Run
 
 1. Clone this repository
-2. Open `population_visualization_task1.ipynb` in Jupyter Notebook or [[Google Colab](https://colab.research.google.com/](https://colab.research.google.com/drive/1-Lv5lJ-LU-uFV6HaBaKc8LGW4CSf_rPe#scrollTo=68GQDHVwoEKO))
+2. Open `population_visualization_task1.ipynb` in Jupyter Notebook or [[Google Colab](https://colab.research.google.com/](https://colab.research.google.com/drive/1-Lv5lJ-LU-uFV6HaBaKc8LGW4CSf_rPe#scrollTo=68GQDHVwoEKO)]
 3. Run the cells to see the visualizations
  ---
