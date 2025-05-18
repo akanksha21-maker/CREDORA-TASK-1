@@ -54,4 +54,5 @@ This project is part of my data science internship at **Credora**. It focuses on
 ---
 
 ## 📝 Folder Structure
-
+[[Uploading codera_task1.py…]()
+](https://colab.research.google.com/drive/1-Lv5lJ-LU-uFV6HaBaKc8LGW4CSf_rPe#scrollTo=68GQDHVwoEKO)
